@@ -1,0 +1,19 @@
+{
+  "name": "merge-bug",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^8.1.0",
+    "sol-merger": "^1.1.1"
+  },
+  "engines": {
+    "node": ">=11.11.0",
+    "npm": ">= 6.7.0"
+  }
+}
